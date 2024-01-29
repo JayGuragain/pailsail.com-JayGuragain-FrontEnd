@@ -2,7 +2,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 //import Shop from ".Components/Pages/Shop";
 import Shop from "./Shop";
 import Navbar from "./Components/Navbar/Navbar";
-import ShopCategory from "./pages/ShopCategory.jsx";
+//import ShopCategory from "./pages/ShopCategory.jsx";
+import ShopCategory from "./pages/ShopCategory";
 import Cart from "./pages/Cart";
 
 import Product from "./pages/Product";
